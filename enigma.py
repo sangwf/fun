@@ -1,5 +1,12 @@
 #coding=utf-8
 #Author: sangwf@qq.com
+#Usage:
+#$python enigma.py x y z hello
+#$
+#$python enigma.py x y z hello
+#rjzus
+#$ python enigma.py x y z rjzus
+#hello
 import sys
 
 rotor1 = {'a':'b', 'b':'a', 'c':'d', 'd':'c', 'e':'f', 'f':'e', 'g':'h', 'h':'g',
