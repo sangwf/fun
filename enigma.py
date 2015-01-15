@@ -2,8 +2,6 @@
 #Author: sangwf@qq.com
 #Usage:
 #$python enigma.py x y z hello
-#$
-#$python enigma.py x y z hello
 #rjzus
 #$ python enigma.py x y z rjzus
 #hello
